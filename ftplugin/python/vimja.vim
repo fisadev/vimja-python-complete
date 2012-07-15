@@ -19,4 +19,4 @@ else:
 EOF
 endfunction
 
-autocmd FileType python set omnifunc=VimjaComplete
+setlocal omnifunc=VimjaComplete
